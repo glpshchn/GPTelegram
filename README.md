@@ -15,8 +15,8 @@ Works via **ProxyAPI** and **Telegram Client API**.
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/your-repo/chatgpt-telegram-bot.git
-cd chatgpt-telegram-bot
+git clone https://github.com/glpshchn/GPTelegram.git
+cd GPTelegram
 ```
 
 ### 2. Install dependencies  
